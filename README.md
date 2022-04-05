@@ -1,2 +1,2 @@
-# beakjoon
+# baekjoon
 my baekjoon solutions
